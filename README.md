@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F73370&width=500&height=100&lines=+Flutter+and+Android+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F73370&width=500&height=100&lines=+Lead+Flutter+and+Android+Developer)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedsamiir&show_icons=true&theme=radical)
 
